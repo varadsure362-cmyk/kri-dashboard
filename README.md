@@ -1,4 +1,3 @@
-# KRI Dashboard — Backend API
 
 > **Tool-08 | Java Developer 2 | Spring Boot 3.2 | PostgreSQL | Redis | JWT**
 
